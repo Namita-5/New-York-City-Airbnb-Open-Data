@@ -12,7 +12,7 @@ AirBnB acts as a broker between listing owners and customers. It sets up prices 
 
 
 * id: listing ID
-name: name of the listing
+* name: name of the listing
 host_id: host ID
 host_name: name of the host
 neighbourhood_group: location
