@@ -27,3 +27,12 @@ AirBnB acts as a broker between listing owners and customers. It sets up prices 
 * reviews_per_month: number of reviews per month
 * calculated_host_listings_count: amount of listing per host
 * availability_365: number of days when listing is available for booking
+
+
+# What can be derived from this data?
+
+*What type of model can be assigned to this dataset? Ans. Regression model for predicting the prices.
+
+*What kind of evaluation metrics will you use for this model? Ans. Since, it is a linear model regression problem, we will use explained variance score,mean-squared-error, and R^2 score for evaluation .
+
+*How will this predictive model help the client? Ans. The client can predict prices according to location and condition of facility and negotiate with host with a range of prices. This will help in building a better and affordable listing for customers and set right expectations for customers at affordable prices. If prices are set high by host, then it would be a loss outcome for all-host,airbnb and customer.
