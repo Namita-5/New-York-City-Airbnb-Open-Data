@@ -13,17 +13,17 @@ AirBnB acts as a broker between listing owners and customers. It sets up prices 
 
 * id: listing ID
 * name: name of the listing
-host_id: host ID
-host_name: name of the host
-neighbourhood_group: location
-neighbourhood: area
-latitude: latitude coordinates
-longitude: longitude coordinates
-room_type: listing space type
-price: price in dollars
-minimum_nights: amount of nights minimum
-number_of_reviews: number of reviews
-last_review: latest review
-reviews_per_month: number of reviews per month
-calculated_host_listings_count: amount of listing per host
-availability_365: number of days when listing is available for booking
+* host_id: host ID
+* host_name: name of the host
+* neighbourhood_group: location
+* neighbourhood: area
+* latitude: latitude coordinates
+* longitude: longitude coordinates
+* room_type: listing space type
+* price: price in dollars
+* minimum_nights: amount of nights minimum
+* number_of_reviews: number of reviews
+* last_review: latest review
+* reviews_per_month: number of reviews per month
+* calculated_host_listings_count: amount of listing per host
+* availability_365: number of days when listing is available for booking
